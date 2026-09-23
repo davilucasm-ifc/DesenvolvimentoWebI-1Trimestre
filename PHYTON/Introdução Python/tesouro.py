@@ -1,0 +1,5 @@
+moedas = int(input(""))
+marinheiros = int(input(""))
+quantidade = moedas/(marinheiros+2)
+quantidadeM = int(quantidade*2)
+print(quantidade)
